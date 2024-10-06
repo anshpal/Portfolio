@@ -20,7 +20,7 @@ const About = () => {
             analytical prowess and strategic thinking.
           </p>
           <a
-            href="https://drive.google.com/file/d/1oAwcdUZ6T8DxPc8us92t-PnhtK6Tmhka/view?usp=sharing"
+            href="https://drive.google.com/file/d/1mRE373LbUndGFbl0kZMSceV4G_7k56nP/view?usp=sharing"
             target="_blank"
             style={{ color: "white", textDecoration: "none" }}
           >
